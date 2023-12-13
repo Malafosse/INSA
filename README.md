@@ -18,6 +18,8 @@ l’exécuter et comment interagir avec lui pour le faire réagir
 
 **Ressources:**
 
+Template de projet: https://github.com/ggourves/BE_POO_Template 
+
 https://github.com/esp8266/Arduino 
 
 https://wiki.seeedstudio.com/Grove_System/
